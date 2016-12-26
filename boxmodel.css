@@ -1,11 +1,12 @@
 p {
 
-/*Content with height andwidth*/
-width: 200px;
+/*Content with height and width*/
+width: 50%;
 /*Border*/
 border: 2px solid blue;
-/*Padding*/
-
-/*Margin*/
-
+/*Padding - controls distance between element and border*/
+padding: 10px 60px 200px 100px;
+/*Margin - controls discance between border and adjacent element*/
+/*margin: 0 auto centers left and right sets topa and bottom to 0*/
+margin: 50px 20px 100px; /* sets top to 50px, left and right to 20px and bottom wto 100px*/
 }
